@@ -23,3 +23,7 @@ Live: https://kate1819.github.io/uptime/
 The city is organised in districts: the edge, the front door, services, data, async, analytics, operations and the outside world. Components are not drawn to scale, and the health meters are a simplified picture of how the parts depend on each other.
 
 Everything is one `index.html` file. The 3D scene uses three.js, and the music and sound effects are generated in the browser, so there are no audio files.
+
+---
+
+© 2026 Kate. All rights reserved. This code may not be copied, changed or reused without permission. See [LICENSE](LICENSE).
